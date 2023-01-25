@@ -1,5 +1,5 @@
-# BookRegister!
-![160](https://user-images.githubusercontent.com/101409447/209712277-9dd1aa14-d1a6-4be0-9be0-18832070deba.png)
+# accounting-books
+![3352515-2](https://user-images.githubusercontent.com/96514857/214567299-11818a91-543c-4f97-ae53-4e3ff7a62ebf.png)
 
 # Описание
 Приложение предназначено для помощи пользователю в ведении списка книг, находящихся в библиотеке. На главном окне приложения находится редактируемый список книг, сохраняющийся после закрытия приложения.
@@ -19,7 +19,7 @@
 - [SceneBuilder](https://gluonhq.com/products/scene-builder/) - инструмент для создания пользовательского интерфейса
 - [MySQL](https://www.mysql.com/) - использовалась для работы с базой данных.
 # Авторы
-- Илья - сделал всю работу - [keyftwink](https://github.com/keyftwink)
+- Никита - аккаунт на git - [rhythmxqq](https://github.com/rhythmxqq)
 # Использованные источники
 - [Руководство JavaFX](https://metanit.com/java/javafx/)
 - [Руководство SceneBuilder](https://habr.com/ru/post/474982/)
