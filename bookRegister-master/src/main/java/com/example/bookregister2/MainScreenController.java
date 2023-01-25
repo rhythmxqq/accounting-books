@@ -193,8 +193,11 @@ public class MainScreenController implements Initializable {
         String dbbook = "INSERT books(bookID, bookName, bookAuthor, bookGenre, bookPresence) VALUES (" + (books.get(books.size() - 1).getBookID()) + ", '" + textFieldName.getText() + "', '" +  textFieldAuthor.getText()+ "', '" + textFieldGenre.getText()+ "', '" + textFieldPresenсe.getText() +"')";
 
         DBEdit(dbbook);
-
         search();
+        textFieldName.clear();
+        textFieldAuthor.clear();
+        textFieldGenre.clear();
+        textFieldPresenсe.clear();
     }
 
     //Метод для работы с базой данных
